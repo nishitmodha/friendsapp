@@ -1,6 +1,6 @@
 # Friends App
 
-Friends List app using Ruby on Rails.
+Friends List app using Ruby on Rails
 
 # Live app hosted using Heroku:
 
